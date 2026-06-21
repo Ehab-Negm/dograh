@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.38.0 (2026-06-21)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+### Features
+* feat(scripts): generate REDIS_PASSWORD on setup, plumb through compose by @tecnomanu in https://github.com/dograh-hq/dograh/pull/458
+### Documentation
+* docs: update Tuner integration to use Dograh provider by @mohamedsalem-bot in https://github.com/dograh-hq/dograh/pull/457
+### Other Changes
+* style(docs): add custom green scrollbar by @Gurkirat-Singh-bit in https://github.com/dograh-hq/dograh/pull/434
+* Add Hostinger (managed-Traefik) deployment files by @a6kme in https://github.com/dograh-hq/dograh/pull/459
+
+## New Contributors
+* @Gurkirat-Singh-bit made their first contribution in https://github.com/dograh-hq/dograh/pull/434
+* @tecnomanu made their first contribution in https://github.com/dograh-hq/dograh/pull/458
+
+**Full Changelog**: https://github.com/dograh-hq/dograh/compare/dograh-v1.37.0...dograh-v1.38.0
+
 ## 1.37.0 (2026-06-19)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
